@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+    text-decoration: none;
+    background-color: black
+    
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+@media screen {
+    
+}
+
+.container{
+    display: flex;
+    background-color: black;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 10%;
+    white-space: nowrap;
+    gap: 15px;
+    
+
+}
+
+.logo{
+    
+    
+}
+
+.logo>a>img{
+    max-width: 245px;
+    
+    
+}
+
+.menu>ul{
+    display: flex;
+    gap: 15px;
+    
+    
+    
+}
+
+.menu>ul>li{
+    display: inline-block;
+    
+    
+}
+.pages{
+    
+    color: white;
+    font-size: 15px;
+    font-family: "Inter", sans-serif;
+
+
+}
+.logi{
+    
+}
+
+.login{
+    
+    font-family: "Inter", sans-serif;
+    color: white;
+    
+    
+}
+
+.img2{
+    display: flex;
+    
+
+}
+
+.i2{
+    width: 100%; 
+    height: auto;
+    object-fit: cover;
+}
+
+
+
+
+
+
+
+
+
+.prods{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    padding-top: 45px;
+    flex-wrap: wrap;
+    
+}
+
+.prods2{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-top: 20px;
+    
+}
+
+.products{
+    display: inline-block;
+    
+    
+
+
+}
+
+.img1{
+    
+    max-width: 260px;
+    max-height: 270px;
+}
+
+.title{
+    display: flex;
+    color: white;
+    font-family: "Inter", sans-serif;
+    font-size: 15px;
+    justify-content: center;
+}
+
+.price{
+    display: flex;
+    color: white;
+    font-family: "Inter", sans-serif;
+    font-size: large;
+    justify-content: center;
+
+}
+
+.end{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    
+    margin-top: 45px;
+
+}
+
+.logo2 {
+   display: flex;
+   padding-bottom: 70px; 
+   max-width: 245px;
+   flex-wrap: wrap;
+   
+    
+
+}
